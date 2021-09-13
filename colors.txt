@@ -1,0 +1,21 @@
+yellow #fec433
+blue #426eff and #3e64ff
+green #35f32e    #41db3ce0
+crimson red #da1024
+grey rgba(255, 255, 255, 0.1)
+pink #b42836
+
+New colors
+background = #191835  to #0a192f
+green = #64ffda
+
+red = #ff6464 and 
+for button icons and headings ff646491 
+and progress bars #ff6464c9
+
+yellow =  #ff9e00 changed to #f7ce74
+sky blue = #82d2de
+white = #e6f1ff
+
+
+block-18 is the couter table color #2d2e4983 to #14243a
